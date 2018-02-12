@@ -6,9 +6,19 @@ For constant Uber or Lyft users or even both, it is really inconvenient to open 
  
  <h1>...</h1>
  
- 
- 
- 
+ 	As high school seniors, one of the hardest decisions to make is where to spend the next four years of your life as a college student. So many questions are brought to light when making the final decision: 
+	What are my chances of getting admitted with my test statistics?
+	Where is the university located?
+	How big is the university?
+	Is it a liberal arts school?
+	Is there a prominent city life?
+	Will I fit in?
+	And so much more…
+	Keeping track of all these concerns can turn in to a hassle when trying to jump between each university’s site. If only there were a single application that had all of the answers to all of these question…
+	Introducing *INSERT NAME OF OUR IDEA* (lol). It holds the answers to all of your college-related  questions. The site will make use of multiple databases to provide an easy way to address different concerns one may have of a university. Upon arriving on the site, the user will enter the name of the university in doubt. The user will be shown a list of things to possibly search - admission statistics, professor reviews, lifestyle, etc. When picking any of the options, the screen will display all of the requested information. 
+	This site will also allow users to create a free account in which they can store their high school statistics and ask for a comparison of where they stand in relation to other university admits. Users will also have an option to save any of the school characteristics they like to an organized list. Note, that creating an account will not be necessary. 
+	Why is *INSERT NAME OF OUR IDEA* a “good idea”? When researching universities, students go to individual university affiliated sites and gather their information. *INSERT NAME OF OUR IDEA* allows users to address all of questions to only one site. 
+
 <h3>Software Specification </h3>
 
 For both applications we will be using a MERN STACK:
